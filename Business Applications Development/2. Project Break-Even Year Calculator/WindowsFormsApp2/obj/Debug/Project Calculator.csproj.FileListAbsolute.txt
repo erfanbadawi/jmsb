@@ -1,0 +1,10 @@
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Project Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ProjectCalculator.resources
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Project Calculator.csproj.GenerateResource.Cache
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Project Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Erfan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
