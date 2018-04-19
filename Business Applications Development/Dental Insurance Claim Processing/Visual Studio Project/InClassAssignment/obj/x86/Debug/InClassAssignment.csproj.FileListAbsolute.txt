@@ -1,0 +1,18 @@
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\bin\Debug\InClassAssignment.exe
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\bin\Debug\InClassAssignment.pdb
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.frmDental.resources
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.Properties.Resources.resources
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.csproj.GenerateResource.Cache
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.exe
+C:\Users\rvahidov.CONCORDIA\Documents\ABImportant files\Teaching\BTM380\W14\inclass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.pdb
+C:\Users\rvahidov\Google Drive\Teaching\BTM380\Assignments\InClass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.exe
+C:\Users\rvahidov\Google Drive\Teaching\BTM380\Assignments\InClass\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.pdb
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\bin\Debug\InClassAssignment.exe
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\bin\Debug\InClassAssignment.pdb
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.csprojResolveAssemblyReference.cache
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.frmDental.resources
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.Properties.Resources.resources
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.csproj.GenerateResource.Cache
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.exe
+C:\Users\e_bada\Desktop\InClassAssignment\InClassAssignment\InClassAssignment\InClassAssignment\obj\x86\Debug\InClassAssignment.pdb
