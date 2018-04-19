@@ -1,0 +1,2 @@
+We were asked to develop an application to calculate savings for a number of time periods assuming in the beginning of each month, the user plans to save x amount of dollars to the investment account that pays r % of annual interest compounded monthly. 
+Our application should have taken as inputs monthly payment (the amount user intends to save each month), and the annual rate (as percent) and when the user clicks “next month” button, the program should calculate the new balance, and display the number of months passed.
