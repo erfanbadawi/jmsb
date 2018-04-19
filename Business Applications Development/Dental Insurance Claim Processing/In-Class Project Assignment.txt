@@ -1,0 +1,9 @@
+We were asked to develop an application for dental insurance claim processing which takes the amount of claim, type of service and whether it is first visit and outputs eligible coverage (reimbursement).
+
+The assumptions were as follows:
+
+* If this is the first visit, there is $50 deductible. 
+* Preventive and surgery are reimbursed at 100%. 
+* Major restorative services are reimbursed at 50%. 
+* Maximum reimbursement for services, except orthodonic is set at $1,750
+* Orthodonic services are reimbursed at 50%, and maximum reimbursement is $2,500 
