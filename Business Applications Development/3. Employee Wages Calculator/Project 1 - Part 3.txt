@@ -1,0 +1,14 @@
+We were asked to develop an application for the following case:
+
+In a country XYZ a government organization classifies its employees according to categories: A and B. The salary of an employee depends on the number of years of service, and the category of the employee. The gross yearly salary grid is shown below. 
+ 	Category  A	Category  B
+Years	 	 
+0-4	 $   45,000 	 $  52,000 
+5-9	 $   50,000 	 $  60,000 
+10-14	 $  55,000 	 $  67,000 
+15-19	 $  58,000 	 $  74,000 
+>19	 $  60,000 	 $  80,000 
+
+If an employee earns less than $55,000, the tax rate on income is 30%. Between $55,000 and below $70,000 the rate is 35%. Above $70,000, the rate is 40%. Employees can also choose between 0%, 3%, or 5% option for their yearly pension savings as a percentage of their pay after taxes. Develop an application that will allow indicating employee category (use radio buttons), years of service (text box or list box), and chosen pension saving plan (radio buttons). 
+
+The application should be able to calculate: 1) the gross salary; 2) taxes deducted; 3) pension deduction; and 4) the net pay (all on a yearly basis).
