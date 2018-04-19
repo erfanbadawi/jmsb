@@ -1,0 +1,14 @@
+We were asked to build an application to keep track of car inventory using classes and methods that we build exclusively for this application:
+
+* A “Car” class with the following private fields: 
+model (string), year (int), color (string), and mileage (double). 
+
+* Properties in order to access thpse fields. 
+
+* A constructor with parameters that can be used to populate all of the fields. 
+
+* A method that returns a string consisting of a model, year, color, and mileage, appropriately formatted. 
+
+* A “CarDM” class for data management that features two static methods: save(List<Car>), and load(). 
+The first one should accept a list of car objects and save their field values to a file called “carlist.txt”. 
+The second one should read the “carlist.txt” file and generate (and return) a list of “car” type objects populating their fields with values read from the file.
