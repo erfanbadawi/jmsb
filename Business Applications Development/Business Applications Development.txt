@@ -1,0 +1,7 @@
+The objective of the course was to gain knowledge and learn techniques necessary for building business applications
+and also having a hands-on experience with object-oriented programming for developing business applications. 
+Object-Oriented (OO) programming is the current trend in developing serious business applications.
+The modern object-oriented development paradigm is adopted in the course using a contemporary language, such as C#, and integrated development environment, such as Visual Studio. 
+
+Topics include control structures, objects, classes, inheritance, class hierarchies, and polymorphism, among others.
+
