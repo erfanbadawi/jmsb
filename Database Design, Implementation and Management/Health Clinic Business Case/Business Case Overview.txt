@@ -1,4 +1,4 @@
-Based on a fictional interview script, a complete database was to be designed in less than 48 hours in such a way that fully addresses business and platform needs of a health clinic.
+Based on a fictional interview script, a complete database was to be designed in less than 48 hours using MySQL Workbench in such a way that fully addresses business and platform needs of a health clinic.
 
 The interview script was as follows: 
 
