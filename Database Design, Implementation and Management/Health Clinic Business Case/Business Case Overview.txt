@@ -1,0 +1,81 @@
+Based on a fictional interview script, a complete database was to be designed in less than 48 hours in such a way that fully addresses business and platform needs of a health clinic.
+
+The interview script was as follows: 
+
+1. Greetings! So I understand your business offers health services,
+can you elaborate a bit more on what this entails?
+
+“Certainly. So at our establishment we typically offer a variety of
+health and medical services. These may include sports massage,
+physiotherapy, rehabilitation, psychotherapy, and even dentistry
+services.”
+
+2. Wow! Such variety! How is it feasible to offer such a breadth of
+services?
+
+“Great question, and I feel that is what makes our establishment
+unique. We have an interesting arrangement in that we have
+already put up the capital to acquire the specialty equipment (such
+as those needed for dentistry or massage). We have storage
+containing all of the equipment on premises. It is useful for the
+young professionals just getting their start, who may not want to get indebted with loans to acquire the same equipment and open their own practice. Instead, they operate out of our facilities and use our equipment and we earn a commission off of their sales.”
+
+3. Fascinating! So the dentists and masseuses are not actually
+employees, but are entrepreneurs? Very interesting business model!
+
+“That’s right, but as far as our operations are concerned we treat
+them all as employees. Some of our employees are entrepreneurs,
+while others are hired on term contracts and given salaries (staff).
+Among entrepreneurs there are massage therapists, dentists,
+physiotherapists, etc. For staff, these include janitorial staff,
+secretarial staff, management, etc.”
+
+4. Very cool! So is there any specific information you need to store
+about these employees?
+
+“Yes! For entrepreneurs, we want to know the join date, name,
+address, contact number, and the entrepreneur’s private company
+name & number, commission rate and community rating. For staff,
+we want to know the hire date, name address, contact number and
+salary. For massage therapists we like to collect their certified massage therapist number. For dentists, we collect the university degree name and date, and Board of Certified Dentists Number. For
+physiotherapists we collect their certified physiotherapist number.”
+
+5. Okay! What about from the client side? How does the process work and what sort of information do you collect?
+
+“So the process begins when clients call us or visit our website and
+book an appointment for a particular service. Each appointment is
+for a single service, and each service is fulfilled by a single
+entrepreneur. Each appointment has a date and time and room
+number. Entrepreneurs may need the use of equipment for a client’s service.”
+
+6. Great, can you tell me more about the services? What information do you store for these?
+
+“Sure, the services include massage, dentistry, physiotherapy and
+other services. Each service has a price and duration. Massage
+services include a speciality (such as sports massage) as well as a
+specific treatment description. Dentistry services includes a
+treatment description and recommendations (use medicinal fluoride
+toothpaste). Physiotherapy treatments include suggested exercises
+(stretches, mobility, etc).”
+
+7. Interesting, and what about clients? What more can you tell me
+about them?
+
+“Clients can either be regular clients or subscribers. Client
+information includes the name, address, contact number & email.
+For subscribers we want to know the subscription start date.
+Subscribers pay a monthly fee but have a reduced rate on all our
+services.”
+
+8. What about the equipment?
+
+“For equipment, we want to know the cost, date of purchase, name,
+size, and description. Equipment may be general purpose (like
+chairs and tables), dentistry specific, massage specific, etc.
+Dentistry equipment should include the medical product number.
+Massage equipment includes the usage (number of times used).”
+
+9. Okay! Thanks, this has given me a lot to work with. Is there anything else you’d like to add?
+
+“No, I think that should about cover it! Thanks for meeting with me
+and good luck!”
